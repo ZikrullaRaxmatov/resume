@@ -1,4 +1,4 @@
-# Resume 
+
 [GitHub](https://github.com/ZikrullaRaxmatov) | [LinkedIn](https://www.linkedin.com/in/zikrulla-rakhmatov-5aa470272/)
 
 # About Me 
