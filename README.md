@@ -82,3 +82,7 @@ Student | May 2024 - December 2024
 - English (Fluent)
 - Korean (Intermediate)
 - Russian (Intermediate)
+
+## Contact:
+- Email: zikrullarakhmatov@gmail.com
+- Tel: +8210 8143 0080
