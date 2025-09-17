@@ -48,6 +48,12 @@ Self study | May 2025 - July 2025
 [User Indentifier](https://github.com/ZikrullaRaxmatov/User_identifier)
 - Technologies: Pytesseract (OCR), Torch Vision, Streamlit, Open-CV.
 - Trained ResNet50 models with high classification accuracy.
+- Camera Capture – Capture and process documents in real time
+- Deep Learning (ResNet50) – Document classification
+- OCR Integration – Extracts key text data from documents
+- Database Check – Verifies user identity and retrieves stored information
+- Streamlit Frontend – Simple and interactive web-based UI
+- Python Backend – Efficient data processing and reporting
 
 [Student Attendance System for LC](https://github.com/ZikrullaRaxmatov/Student_Attendance_System)
 - Technologies: Image Enhancement, Face Restoration, Open-CV.
