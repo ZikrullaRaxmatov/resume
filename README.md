@@ -73,11 +73,11 @@ Student | May 2024 - December 2024
 - Learning AI algorithms, models and using them on real world projects
 
 ## Education
-2023 - 2025 | NAMSEOUL UNIVERSITY M.A (South Korea)
-2017 - 2021 | TASHKENT UNIVERSITY OF INFORMATION TECHNOLOGY B.A (Uzbekistan)
+- 2023 - 2025 | NAMSEOUL UNIVERSITY M.A (South Korea)
+- 2017 - 2021 | TASHKENT UNIVERSITY OF INFORMATION TECHNOLOGY B.A (Uzbekistan)
 
 ## LANGUAGES
-Uzbek (Native)
-English (Fluent)
-Korean (Intermediate)
-Russian (Intermediate)
+- Uzbek (Native)
+- English (Fluent)
+- Korean (Intermediate)
+- Russian (Intermediate)
