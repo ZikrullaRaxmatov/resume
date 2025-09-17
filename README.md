@@ -26,17 +26,16 @@ End-to-End AI Solutions: Scalable AI Pipelines, Multi-Agent Orchestration (LangC
 
 ## Recent Achievements
 
-- Data analysis for STT, TTS, LLM mofres
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
 - Developed multilingual (UZ/RU/EN/KOR) RAG pipelines with indexing, retrieval, and synthesis.
+- Data analysis for STT, TTS, LLM mofres
 - Computer vision 
 - Set up monitoring with accuracy, F1, ROC-AUC, and drift detection metrics.
-- Learned with MCP (Model Context Protocol) servers for connecting custom tools and enhancing orchestration.
 
 ## Work Experience
 ### AI Developer
-Metachain | July 2025 - Present
+uzbrainai.uz | July 2025 - Present
 
 - Data Analysis for STT, TTS, Music detection
 - Optimized inference speed by processing audio in chunks for efficient streaming.
@@ -46,14 +45,12 @@ Metachain | July 2025 - Present
 ### AI Engineer
 Self study | May 2025 - July 2025
 
-[Student Attendance System for LC](https://github.com/ZikrullaRaxmatov/Student_Attendance_System)
-- Technologies: Image Enhancement, Face Restoration, Open-CV.
-- Deployed on github and locally
-
 [User Indentifier](https://github.com/ZikrullaRaxmatov/User_identifier)
 - Technologies: Pytesseract (OCR), Torch Vision, Streamlit, Open-CV.
 - Trained ResNet50 models with high classification accuracy.
-- Deployed on github and locally
+
+[Student Attendance System for LC](https://github.com/ZikrullaRaxmatov/Student_Attendance_System)
+- Technologies: Image Enhancement, Face Restoration, Open-CV.
 
 Knowlegmnet about how to build real world projects:
 - Using RAG and LangChain for industry level
