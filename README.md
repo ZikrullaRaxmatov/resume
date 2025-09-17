@@ -46,6 +46,7 @@ uzbrainai.uz | July 2025 - Present
 Self study | May 2025 - July 2025
 
 [User Indentifier](https://github.com/ZikrullaRaxmatov/User_identifier)
+- This project is a user identification system that captures a document using a camera, classifies it, extracts text information via OCR, and verifies it against a database. If a match is found, the system retrieves and reports all related user information.
 - Technologies: Pytesseract (OCR), Torch Vision, Streamlit, Open-CV.
 - Trained ResNet50 models with high classification accuracy.
 - Camera Capture – Capture and process documents in real time
@@ -53,9 +54,10 @@ Self study | May 2025 - July 2025
 - OCR Integration – Extracts key text data from documents
 - Database Check – Verifies user identity and retrieves stored information
 - Streamlit Frontend – Simple and interactive web-based UI
-- Python Backend – Efficient data processing and reporting
+
 
 [Student Attendance System for LC](https://github.com/ZikrullaRaxmatov/Student_Attendance_System)
+- This project helps organizations—including learning centers, schools, and universities—efficiently track and mark student attendance in classes. The system allows instructors to mark students as present or absent based on lesson times.
 - Technologies: Image Enhancement, Face Restoration, Open-CV.
 
 Knowlegmnet about how to build real world projects:
