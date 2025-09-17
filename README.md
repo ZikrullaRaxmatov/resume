@@ -1,5 +1,5 @@
 # Resume
-GitHub: https://github.com/ZikrullaRaxmatov
+[GitHub](https://github.com/ZikrullaRaxmatov)
  
 # About Me
 I am a dedicated AI Developer with 3 month of industry and 1.5+ years of academic experience in machine learning, deep learning, NLP, and computer vision. My expertise spans speech-to-text (STT), large language models (LLMs), Retrieval-Augmented Generation (RAG), DeepFake detection, AI-generated content classification, and multi-agent orchestration.
@@ -46,10 +46,11 @@ Metachain | July 2025 - Present
 ### AI Engineer
 Self study | May 2025 - July 2025
 
-Student Attendance System for LC https://github.com/ZikrullaRaxmatov/Student_Attendance_System
+[Student Attendance System for LC](https://github.com/ZikrullaRaxmatov/Student_Attendance_System)
 - Technologies: Image Enhancement, Face Restoration, Open-CV.
 - Deployed on github and locally
-User Indentifier https://github.com/ZikrullaRaxmatov/User_identifier
+
+[User Indentifier](https://github.com/ZikrullaRaxmatov/User_identifier)
 - Technologies: Pytesseract (OCR), Torch Vision, Streamlit, Open-CV.
 - Trained ResNet50 models with high classification accuracy.
 - Deployed on github and locally
