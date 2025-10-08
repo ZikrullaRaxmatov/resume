@@ -26,8 +26,15 @@ End-to-End AI Solutions: Scalable AI Pipelines, Multi-Agent Orchestration (LangC
 
 ## Recent Achievements
 
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
+- Ai Agents and Agentic Ai
+- Designing and developing autonomous AI agents and agentic AI systems using LangChain and LangGraph frameworks.
+- Implementing tool-augmented LLM workflows for dynamic reasoning, decision-making, and task automation.
+- Integrating local and remote LLMs (e.g., LLaMA, Mistral, OpenAI models) with structured memory, RAG pipelines, and multi-step conversational logic.
+- Building modular LangGraph architectures for message passing, state management, and tool orchestration.
+- Utilizing vector databases (e.g., Chroma, FAISS) and retrieval-augmented generation (RAG) to enhance knowledge access and contextual responses.
+- Deploying and testing agents in Dockerized environments and optimizing for scalability and local inference performance.
+- Experimenting with custom prompt templates, dynamic tool binding, and external API integration for domain-specific intelligence.
+- Key Technologies: LangChain · LangGraph · Python · LLMs · RAG · Vector Databases (Chroma, FAISS) · Hugging Face · Docker · Streamlit
 - Developed multilingual (UZ/RU/EN/KOR) RAG pipelines with indexing, retrieval, and synthesis.
 - Data analysis for STT, TTS, LLM mofres
 - Computer vision 
@@ -87,6 +94,9 @@ Student | May 2024 - December 2024
 - English (Fluent)
 - Korean (Intermediate)
 - Russian (Intermediate)
+
+## VISA STATUS
+- D10 holder
 
 ## Contact:
 - Email: zikrullarakhmatov@gmail.com
