@@ -4,7 +4,7 @@
 # About Me 
 I am Zikrulla rakhmatov, a dedicated AI Developer with 3 month of industry and 1.5+ years of academic experience in machine learning, deep learning, NLP, and computer vision. My expertise spans speech-to-text (STT), large language models (LLMs), Retrieval-Augmented Generation (RAG), DeepFake detection, AI-generated content classification, and multi-agent orchestration.
 
-I have successfully built and deployed real-time AI systems for student attendance system, user indintifier, audio watermarking, and AI-driven audio/text detection with my team, as well as RAG-based knowledge retrieval pipelines and multi-agent platforms for domain-specific use cases.
+I have successfully built and deployed real-time Ai agents and agentic Ai, Ai systems for student attendance system, user indintifier, audio watermarking, and AI-driven audio/text detection with my team, as well as RAG-based knowledge retrieval pipelines and multi-agent platforms for domain-specific use cases.
 
 My current focus includes multilingual speech recognition, AI-based security systems, orchestration of intelligent agents, and real-time inference acceleration, delivering efficient and production-ready AI applications.
 
